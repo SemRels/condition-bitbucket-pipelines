@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://registry.semrel.io/schemas/plugins/condition-bitbucket-pipelines/v1.json",
+  "$id": "https://registry.semrel.io/schemas/plugins/bitbucket-pipelines/v1.json",
   "title": "condition-bitbucket-pipelines plugin configuration",
   "description": "Schema v1 for the condition-bitbucket-pipelines semrel plugin. Configure via SEMREL_* environment variables.",
   "type": "object",
