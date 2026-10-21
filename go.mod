@@ -1,3 +1,3 @@
 module github.com/SemRels/condition-bitbucket-pipelines
 
-go 1.25
+go 1.27.2
