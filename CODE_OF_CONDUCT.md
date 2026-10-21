@@ -1,6 +1,6 @@
 # Code of Conduct
 
-condition-bitbucket-pipelines is committed to providing a welcoming and harassment-free community.
+`condition-bitbucket-pipelines` is committed to providing a welcoming and harassment-free community.
 
 ## Our Pledge
 
