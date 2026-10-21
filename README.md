@@ -1,6 +1,10 @@
 # condition-bitbucket-pipelines
 
 [![Latest Release](https://img.shields.io/github/v/release/SemRels/condition-bitbucket-pipelines?label=version&color=blue)](https://github.com/SemRels/condition-bitbucket-pipelines/releases/latest)
+[![CI](https://github.com/SemRels/condition-bitbucket-pipelines/actions/workflows/ci.yml/badge.svg)](https://github.com/SemRels/condition-bitbucket-pipelines/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/SemRels/condition-bitbucket-pipelines)](LICENSE)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/SemRels/condition-bitbucket-pipelines/badge)](https://scorecard.dev/viewer/?uri=github.com/SemRels/condition-bitbucket-pipelines)
+[![REUSE status](https://api.reuse.software/badge/github.com/SemRels/condition-bitbucket-pipelines)](https://api.reuse.software/info/github.com/SemRels/condition-bitbucket-pipelines)
 
 Allows releases only when semrel is running inside Bitbucket Pipelines.
 
